@@ -1,0 +1,3 @@
+* Extra settings for =light=
+
+-soft -bounce -extra4 -dirt 
