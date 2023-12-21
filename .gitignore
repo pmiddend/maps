@@ -1,0 +1,7 @@
+*.log
+*.lit
+*.bsp
+autosave/
+*.prt
+*.json
+*.vis
