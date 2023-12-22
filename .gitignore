@@ -6,3 +6,4 @@ autosave/
 *.json
 *.vis
 *.pts
+*.texinfo
