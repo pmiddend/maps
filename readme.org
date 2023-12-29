@@ -4,6 +4,9 @@
 - [X] Add gold key cave to the end, key on top of building
 - [ ] Geometry, textures and entities with id1 only
 - [ ] Try making the three levels color-coded
+- [ ] Add cave at the end ("boss fight")
+- [ ] Add shootable targets on roof that open doors
+- [ ] Spawn jumper when second button on ground floor is pressed
 - [ ] Try using Makkon and snow (copper mod)
 * Extra settings for =light=
 
