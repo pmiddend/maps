@@ -2,6 +2,8 @@
 
 - [X] Add switch on ground floor to open the door
 - [X] Add gold key cave to the end, key on top of building
+- [ ] finish texturing/geometry of lower room
+- [ ] add monsters and weapons
 - [ ] Geometry, textures and entities with id1 only
 - [ ] Try making the three levels color-coded
 - [ ] Add cave at the end ("boss fight")
